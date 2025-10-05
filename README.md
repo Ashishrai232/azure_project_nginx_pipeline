@@ -1,0 +1,1 @@
+# azure_project_nginx_pipeline
